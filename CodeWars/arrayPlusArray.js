@@ -1,6 +1,6 @@
-get the sum of two arrays...actually the sum of all their elements.
+//get the sum of two arrays...actually the sum of all their elements.
 
-P.S. Each array includes only integer numbers. Output is a number too.
+//P.S. Each array includes only integer numbers. Output is a number too.
 
 function arrayPlusArray(arr1, arr2) {
 

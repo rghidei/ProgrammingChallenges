@@ -6,7 +6,7 @@
 // solution("1", "22") // returns "1221"
 // solution("22", "1") // returns "1221"
 
-//you want me to create a function thats passes in two agruents and return a string back with the longest string in betweeen the short string
+//you want me to create a function thats passes in two arguments and return a string back with the longest string in betweeen the short string
 ////input: a= one string and b = second string
 //output: shortest string longest string shortest string
 //or aba or bab

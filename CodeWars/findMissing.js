@@ -48,4 +48,4 @@ function findMissing(arr){
     //prev = 8
   }
 }
-console.log(findMissing([2,4,8,32]))
+console.log(findMissing([2,4,8,32]));

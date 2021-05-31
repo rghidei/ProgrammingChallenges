@@ -4,4 +4,4 @@ function Ship(draft,crew) {
  this.isWorthIt = function() {
    return (this.draft - (crew * 1.5)) > 20
  }
-}
+};

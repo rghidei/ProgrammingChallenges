@@ -1,3 +1,5 @@
-function love(){
-return let x = 4
+function addItUpByTwo(num){
+let result = num * 2
+return result
 }
+console.log(addItUpByTwo(8))

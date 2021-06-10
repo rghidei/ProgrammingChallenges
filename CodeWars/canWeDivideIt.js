@@ -10,3 +10,4 @@ function isDivideBy(number, a, b) {
   }
 }
 console.log(isDivideBy(-12, 2, -5))
+// 

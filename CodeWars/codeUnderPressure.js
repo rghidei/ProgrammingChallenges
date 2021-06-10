@@ -3,3 +3,4 @@ function doubleInteger(i) {
   const double = i * 2
   return double;
 }
+//

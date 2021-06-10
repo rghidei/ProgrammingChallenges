@@ -18,3 +18,4 @@ function hammingDistance(stringA, stringB) {
   }
   return counter
 }
+//

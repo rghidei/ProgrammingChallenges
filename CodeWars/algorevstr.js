@@ -8,3 +8,4 @@ E.g reverseString('algorithms') // should return 'smhtirogla'
 function reverseString(text) {
     return text.split('').reverse().join('')
 }
+//

@@ -12,7 +12,7 @@ longestWord('Top Shelf Web Development Training on Scotch')
 
 // }
 // console.log(longestWord('lulu loves you'))
-
+//
 // function longestWord(text) {
 //     // Code goes here
 //     text = text.split(' ')

@@ -9,4 +9,4 @@ function getAverage(marks){
   let average = result/ marks.length
   return parseInt(average)
   //TODO : calculate the downwar rounded average of the marks array
-}
+};

@@ -19,5 +19,4 @@ function isDigit(s) {
   } else {
     return false
   }
-  //your code
 }

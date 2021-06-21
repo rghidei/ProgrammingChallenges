@@ -7,3 +7,4 @@ function solution(str){
   return joinString
 }
 console.log(solution("Hello"));
+console.log(solution("Rekka"));

@@ -10,7 +10,7 @@
 // p:
 // -convert the strings into an integer
 // -add the integers to get their sum
-// -convert back into a string 
+// -convert back into a string
 
 function sumStr(a,b) {
   if(a === '' && b === ''){
@@ -25,4 +25,4 @@ function sumStr(a,b) {
   let conB = parseInt(b, 10)
   let sum = conA + conB
   return sum.toString()
-}
+};

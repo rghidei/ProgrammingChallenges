@@ -41,7 +41,7 @@
 //Next, I know i need to create a conditional statement
 //the situantion will be, if a or b is longer, i want to the longer string to be inserted in the middle of 2 of the same shorter string
 function solution(a, b){
-  // your code here
+
   let isLengthA = a.length
   let isLengthB = b.length
   console.log(a.length)

@@ -7,7 +7,6 @@ E.g hammingDistance('rover', 'river') // should return 1
 
 
 function hammingDistance(stringA, stringB) {
-    // Code goes here
   let splitA = stringA.split('')
   let splitB = stringB.split('')
   let counter = 0
@@ -18,4 +17,3 @@ function hammingDistance(stringA, stringB) {
   }
   return counter
 }
-//

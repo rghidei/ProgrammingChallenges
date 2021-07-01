@@ -10,3 +10,4 @@ function arrayPlusArray(arr1, arr2) {
 
   return result + result2; //something went wrong
 }
+//

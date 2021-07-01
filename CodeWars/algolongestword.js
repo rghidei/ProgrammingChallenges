@@ -11,7 +11,7 @@ longestWord('Top Shelf Web Development Training on Scotch')
 //    return text[0]
 
 // }
-// console.log(longestWord('lulu loves you'))
+// console.log(longestWord('coding is fun'))
 //
 // function longestWord(text) {
 //     // Code goes here

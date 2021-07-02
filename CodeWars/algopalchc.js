@@ -18,4 +18,5 @@ function palindromeChecker(text) {
         return false
     }
 }
+console.log(palindromeChecker())
 // const palindromeChecker = (text) => text.split('').reverse().join('') === text ? true : false

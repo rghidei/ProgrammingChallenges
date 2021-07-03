@@ -24,3 +24,4 @@ function maxRecurringChar(str) {
   }
   return maxChar;
 }
+console.log(maxRecurringChar())

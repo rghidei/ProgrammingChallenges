@@ -12,3 +12,4 @@
 var Ball = function(ballType) {
   return (ballType == undefined) ? this.ballType = 'regular' : this.ballType = ballType;
 };
+//

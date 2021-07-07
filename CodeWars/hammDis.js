@@ -17,3 +17,4 @@ function hammingDistance(stringA, stringB) {
   }
   return counter
 }
+console.log(hammingDistance())

@@ -26,3 +26,4 @@ function sumStr(a,b) {
   let sum = conA + conB
   return sum.toString()
 };
+console.log(sumStr())

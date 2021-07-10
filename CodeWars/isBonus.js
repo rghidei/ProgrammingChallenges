@@ -14,6 +14,7 @@ let isBooLean = (bonus === true) ? total:salary
 
 return "£" + isBooLean
 }
+console.log(bonusTime())
 
 
 

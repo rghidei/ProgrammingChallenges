@@ -52,4 +52,4 @@ function solution(a, b){
     return a + b + a
   }
 }
-console.log(solution("astonish", "willow"))
+console.log(solution("astonish", "lillies"))

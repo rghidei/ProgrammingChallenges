@@ -8,7 +8,6 @@
 
 
 function fizzBuzz(n) {
-    // Code goes here
   for(let i = 1; i <= n; i++){
     if(i % 15 === 0){
       console.log("fizzbuzz")

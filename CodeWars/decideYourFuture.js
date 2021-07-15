@@ -8,3 +8,4 @@ function yourFutureCareer() {
       return "Full-Stack Developer"
       }
 };
+console.log(yourFutureCareer())

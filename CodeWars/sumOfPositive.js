@@ -16,3 +16,4 @@ function positiveSum(arr) {
     return sum
   }
 }
+console.log(positiveSum())

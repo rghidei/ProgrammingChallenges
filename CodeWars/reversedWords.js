@@ -7,3 +7,4 @@ function reverseWords(str){
   str = str.join(' ')
   return str
 }
+console.log(reverseWords('candy'))

@@ -4,3 +4,4 @@ function numberToString(num) {
   let numString = num.toString();
   return numString;
 }
+console.log(numberToString(10))

@@ -6,3 +6,4 @@ function position(letter){
   }
   return "Position of alphabet: " + result.slice(0, result.length - 1);
 }
+console.log(position(e))

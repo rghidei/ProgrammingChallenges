@@ -8,3 +8,4 @@ function even_or_odd(number) {
     return "Odd"
 }
 console.log(even_or_odd(7))
+//

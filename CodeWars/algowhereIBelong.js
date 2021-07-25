@@ -18,4 +18,4 @@ function whereIBelong(array, num) {
 
  // return array.concat([num]).sort((a,b) => a - b).indexOf(num)
 }
-///
+console.log(whereIBelong([1, 2, 3, 4], 1.5))

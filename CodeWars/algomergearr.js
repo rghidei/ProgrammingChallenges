@@ -28,19 +28,19 @@ text = [...new Set([...text])]
 console.log(mergeArrays([1,2,3,3,3], [1,4,5,2]))
 
 
-// function mergeArrays(...arrays) {
-//
-//     let jointArray = []
-//
-//     arrays.forEach(array => {
-//         jointArray = [...jointArray, ...array]
-//     });
-//
-//     return [...new Set([...jointArray])]
-//
-//
-// }
-// const mergeArrays = (...arrays) => arrSet = [...new Set(arrays.flat())];
+function mergeArrays(...arrays) {
+
+    let jointArray = []
+
+    arrays.forEach(array => {
+        jointArray = [...jointArray, ...array]
+    });
+
+    return [...new Set([...jointArray])]
+
+
+}
+const mergeArrays = (...arrays) => arrSet = [...new Set(arrays.flat())];
 
 // function mergeArrays(...arrays) {
 //     let newArray = []

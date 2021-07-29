@@ -6,7 +6,7 @@
 ///
 
 function chunkArray(array, size) {
-    console.log('===============================================')
+    console.log('===============================')
     console.log(`THE ARRAY IS ${array}`)
     console.log(`THE SIZE IS: ${size}`)
     let newArray = []

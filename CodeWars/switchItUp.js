@@ -33,6 +33,8 @@ function switchItUp(number){
 }
 
 console.log(switchItUp(5))
+console.log(switchItUp(0))
+
 // Answer: "Five"
 
 // Best Solution:

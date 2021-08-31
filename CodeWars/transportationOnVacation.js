@@ -31,9 +31,9 @@ console.log(rentalCarCost(4))
 console.log(rentalCarCost(7))
 
 //Answer:
-40
-140
-230
+// 40
+// 140
+// 230
 
 //Best Solution:
 // function rentalCarCost(d) {

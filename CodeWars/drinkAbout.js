@@ -44,12 +44,12 @@ console.log(peopleWithAgeDrink(21))
 console.log(peopleWithAgeDrink(30))
 
 //Answers:
-13 --> "drink toddy"
-17 --> "drink coke"
-18 --> "drink beer"
-20 --> "drink beer"
-21 --> "drink whisly"
-30 --> "drink whisky"
+// 13 --> "drink toddy"
+// 17 --> "drink coke"
+// 18 --> "drink beer"
+// 20 --> "drink beer"
+// 21 --> "drink whisly"
+// 30 --> "drink whisky"
 
 // Best Solution:
 const peopleWithAgeDrink = (age) =>

@@ -48,6 +48,7 @@ console.log(peopleWithAgeDrink(30))
 17 --> "drink coke"
 18 --> "drink beer"
 20 --> "drink beer"
+21 --> "drink whisly"
 30 --> "drink whisky"
 
 // Best Solution:

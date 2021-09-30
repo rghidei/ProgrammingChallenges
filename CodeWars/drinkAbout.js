@@ -43,6 +43,8 @@ console.log(peopleWithAgeDrink(20))
 console.log(peopleWithAgeDrink(21))
 console.log(peopleWithAgeDrink(30))
 
+//Answers:
+
 // Best Solution:
 const peopleWithAgeDrink = (age) =>
   age < 14 ? "drink toddy" :

@@ -42,3 +42,5 @@ console.log(peopleWithAgeDrink(18))
 console.log(peopleWithAgeDrink(20))
 console.log(peopleWithAgeDrink(21))
 console.log(peopleWithAgeDrink(30))
+
+// Best Solution:

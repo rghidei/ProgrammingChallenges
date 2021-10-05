@@ -35,6 +35,7 @@ function peopleWithAgeDrink(old) {
   }
 }
 
+// Test Cases:
 console.log(peopleWithAgeDrink(13))
 console.log(peopleWithAgeDrink(17))
 console.log(peopleWithAgeDrink(18))

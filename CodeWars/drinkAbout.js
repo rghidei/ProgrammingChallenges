@@ -34,3 +34,10 @@ function peopleWithAgeDrink(old) {
     return "drink whisky";
   }
 }
+
+console.log(peopleWithAgeDrink(13))
+console.log(peopleWithAgeDrink(17))
+console.log(peopleWithAgeDrink(18))
+console.log(peopleWithAgeDrink(20))
+console.log(peopleWithAgeDrink(21))
+console.log(peopleWithAgeDrink(30))

@@ -20,3 +20,17 @@
 // if 21 and more than 21 == drink whisky
 
 // My Solution:
+function peopleWithAgeDrink(old) {
+  if (old < 14){
+    return "drink toddy";
+  }
+  else if (old<18 && old >13) {
+    return "drink coke";
+  }
+  else if (old<21 && old > 17) {
+    return "drink beer";
+  }
+  else if (old >= 21) {
+    return "drink whisky";
+  }
+  }

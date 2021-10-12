@@ -14,3 +14,7 @@
 // Examples: (Input --> Output)
 
 // Prep:
+// if less than 14 == drink toddy
+// if less than 18 and more than 13 == drink coke
+// if less than 21 and more than 17 == drink beer
+// if 21 and more than 21 == drink whisky 

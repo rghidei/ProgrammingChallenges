@@ -12,3 +12,5 @@
 // Young under 21 old.
 // Adults have 21 or more.
 // Examples: (Input --> Output)
+
+// Prep:

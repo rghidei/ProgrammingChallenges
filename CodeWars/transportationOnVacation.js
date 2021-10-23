@@ -33,7 +33,7 @@ console.log(rentalCarCost(1))
 console.log(rentalCarCost(4))
 console.log(rentalCarCost(7))
 
-Answer:
+//Answer:
 40
 140
 230

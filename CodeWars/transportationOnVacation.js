@@ -32,3 +32,8 @@ function rentalCarCost(d) {
 console.log(rentalCarCost(1))
 console.log(rentalCarCost(4))
 console.log(rentalCarCost(7))
+
+Answer:
+40
+140
+230

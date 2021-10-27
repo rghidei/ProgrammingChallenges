@@ -29,7 +29,6 @@ function rentalCarCost(d) {
   }
   return total
 }
-
+console.log(rentalCarCost(1))
+console.log(rentalCarCost(4))
 console.log(rentalCarCost(7))
-console.log()
-console.log()

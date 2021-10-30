@@ -19,7 +19,7 @@
 // if its 3 days or more than 3 day and less than 7 days  == 40 per day, minus 20
 // if its 7 days or more than 7 days  == 40 per day, minus 50
 
-My Solution:
+// My Solution:
 function rentalCarCost(d) {
   let total = 40 * d
   if(d >= 7) {

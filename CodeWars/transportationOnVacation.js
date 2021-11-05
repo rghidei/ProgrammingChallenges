@@ -12,3 +12,9 @@
 // (rentalCarCost(4), 140);
 // (rentalCarCost(5), 180);
 // (rentalCarCost(6), 220);
+
+Prep:
+// Your solution here
+// if its less than 3 days == 40 per day
+  // if its 3 days or more than 3 day and less than 7 days  == 40 per day, minus 20
+  // if its 7 days or more than 7 days  == 40 per day, minus 50

@@ -7,8 +7,8 @@
 //
 // Write a code that gives out the total amount for different days(d).
 
-Test Cases:
-(rentalCarCost(3), 100);
-(rentalCarCost(4), 140);
-(rentalCarCost(5), 180);
-(rentalCarCost(6), 220);
+// Test Cases:
+// (rentalCarCost(3), 100);
+// (rentalCarCost(4), 140);
+// (rentalCarCost(5), 180);
+// (rentalCarCost(6), 220);

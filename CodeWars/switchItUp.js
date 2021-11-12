@@ -33,10 +33,10 @@ function switchItUp(number){
 }
 
 console.log(switchItUp(5))
-Answer: "Five"
+// Answer: "Five"
 
 // Best Solution:
-function switchItUp(number){
-  var words = ['Zero', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine'];
-  return words[number];
-}
+// function switchItUp(number){
+//   var words = ['Zero', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine'];
+//   return words[number];
+// }

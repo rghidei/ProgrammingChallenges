@@ -33,3 +33,5 @@ function switchItUp(number){
 }
 
 console.log(switchItUp(5))
+
+// Best Solution:

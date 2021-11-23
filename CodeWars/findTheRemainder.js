@@ -31,5 +31,10 @@ function remainder(a, b){
 }
 console.log(remainder(17, 5))
 
-// Answer: 
+// Answer:
 // 2
+// 
+// Best Answer:
+// function remainder(a, b){
+//   return a > b ? a % b : b % a;
+// }

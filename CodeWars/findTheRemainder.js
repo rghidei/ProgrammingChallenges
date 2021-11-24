@@ -30,3 +30,6 @@ function remainder(a, b){
   return remain
 }
 console.log(remainder(17, 5))
+
+// Answer: 
+// 2

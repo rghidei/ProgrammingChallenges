@@ -19,3 +19,13 @@
 // result - division by zero (refer to the specifications on how to handle this in your language)
 
 //My Solutions:
+function remainder(a, b){
+  // Divide the larger argument by the smaller argument and return the remainder
+  let remain = 0
+  if(a > b){
+    remain = a % b
+  } else{
+    remain = b % a
+  }
+  return remain
+}

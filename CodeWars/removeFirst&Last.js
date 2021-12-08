@@ -13,5 +13,5 @@ function removeChar(str){
 
   return joinString
 
-};
+}
 console.log(removeChar('eloquent'))

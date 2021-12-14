@@ -5,4 +5,4 @@ function numberToString(num) {
   return numString;
 }
 console.log(numberToString(10))
-console.log
+console.log(numberToString)

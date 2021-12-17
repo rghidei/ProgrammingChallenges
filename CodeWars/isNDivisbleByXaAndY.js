@@ -10,4 +10,4 @@ function isDivisible(n, x, y) {
   }
 
 }
-console.log
+console.log(isDivisible())

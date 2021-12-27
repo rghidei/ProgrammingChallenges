@@ -49,3 +49,5 @@ function findMissing(arr){
   }
 }
 console.log(findMissing([2,4,8,32]));
+
+//

@@ -8,6 +8,6 @@ function getAverage(marks){
   let result = marks.reduce((sum, current) => sum + current);
   let average = result/ marks.length
   return parseInt(average)
-  //TODO : calculate the downwar rounded average of the marks array
+   calculate the downwar rounded average of the marks array
 };
 console.log(getAverage())
